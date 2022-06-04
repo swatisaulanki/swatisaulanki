@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
 <h3 align="center">I'm a Full-Stack web developer trained in HTML, CSS, JavaScript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatisaulanki&label=Profile%20views&color=0e75b6&style=flat" alt="swatisaulanki" /> </p>
 
