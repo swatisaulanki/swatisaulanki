@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saulankiswati" target="blank"><img src="https://img.shields.io/twitter/follow/saulankiswati?logo=twitter&style=for-the-badge" alt="saulankiswati" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, JavaScript, HTML, CSS.**
+- 🌱 I’m currently learning **React, Redux.**
 
 - 👯 I’m looking to collaborate on **Any project.**
 
