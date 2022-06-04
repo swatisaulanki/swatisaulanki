@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Any project.**
 
-- 👨‍💻 All of my projects are available at [https://swatisaulanki.netlify.app/](https://swatisaulanki.netlify.app/)
+- 👨‍💻 All of my projects are available at [swati.cf](swati.cf)
 
 - 📝 I regularly write articles on [https://medium.com/@swatisaulanki](https://medium.com/@swatisaulanki)
 
