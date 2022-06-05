@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
+![MasterHead](https://previews.123rf.com/images/melpomen/melpomen2003/melpomen200300739/141949959-web-development-concept-with-technology-blurred-abstract-light-background.jpg)
 
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
 <h3 align="center">I'm a Full-Stack web developer trained in HTML, CSS, JavaScript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
