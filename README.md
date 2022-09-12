@@ -2,7 +2,7 @@
 ![MasterHead](https://previews.123rf.com/images/melpomen/melpomen2003/melpomen200300739/141949959-web-development-concept-with-technology-blurred-abstract-light-background.jpg)
 
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
-<h3 align="center">I'm a Font-End Web Developer trained in HTML, CSS, JavaScript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center">I'm a Font-End Web Developer trained in HTML, CSS, JavaScript,  React, Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saulankiswati" target="blank"><img src="https://img.shields.io/twitter/follow/saulankiswati?logo=twitter&style=for-the-badge" alt="saulankiswati" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux.**
+
 
 - 👯 I’m looking to collaborate on **Any project.**
 
@@ -18,11 +18,11 @@
  -->
 - 📝 I regularly write articles on [https://medium.com/@swatisaulanki](https://medium.com/@swatisaulanki)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **swatisaulanki@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1h26TkBKfXJ00hfBFcuuseVSqm049_FhDBfqduU3DP24/](https://docs.google.com/document/d/1h26TkBKfXJ00hfBFcuuseVSqm049_FhDBfqduU3DP24/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UrM2DiJScyNXq79a2-NbTtgjYikss5qW/view?usp=sharing/](https://drive.google.com/file/d/1UrM2DiJScyNXq79a2-NbTtgjYikss5qW/view?usp=sharing/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
