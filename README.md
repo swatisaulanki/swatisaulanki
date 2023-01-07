@@ -1,5 +1,5 @@
 
-![MasterHead](https://previews.123rf.com/images/melpomen/melpomen2003/melpomen200300739/141949959-web-development-concept-with-technology-blurred-abstract-light-background.jpg)
+![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
 <h3 align="center">I'm a Font-End Web Developer trained in HTML, CSS, JavaScript,  React, Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
