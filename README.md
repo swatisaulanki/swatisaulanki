@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **swatisaulanki@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UrM2DiJScyNXq79a2-NbTtgjYikss5qW/view?usp=sharing/](https://drive.google.com/file/d/1UrM2DiJScyNXq79a2-NbTtgjYikss5qW/view?usp=sharing/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UrM2DiJScyNXq79a2-NbTtgjYikss5qW/view?usp=sharing/](https://drive.google.com/file/d/1UQ8hRVwlZQDVi0_lJ71UyJO5ufMeCINM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
