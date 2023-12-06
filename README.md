@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saulankiswati" target="blank"><img src="https://img.shields.io/twitter/follow/saulankiswati?logo=twitter&style=for-the-badge" alt="saulankiswati" /></a> </p>
 
-<h1>About Me</h1>
+<h1>💫About Me</h1>
 
 - 👯 I’m looking to collaborate on **Any project.**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saulankiswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saulankiswati" height="30" width="40" /></a>
+<a href="https://twitter.com/saulankiswati" target="blank"> < img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saulankiswati" height="30" width="40" /> </a>
 <a href="https://linkedin.com/in/linkedin.com/in/swati-saulanki-bb02721aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/swati-saulanki-bb02721aa" height="30" width="40" /></a>
 </p>
 
