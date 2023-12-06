@@ -2,7 +2,7 @@
 ![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
-<h3 align="center"> I'm  a Fullstack Web Developer trained in HTML, CSS, JavaScript,  React, Redux, MongoDB, Express, NodeJs, and DSA I look forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center"> I'm  a Fullstack Web Developer trained in HTML, CSS, JavaScript,  React, Redux, MongoDB, Express, NodeJs, and DSA I look forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
 
@@ -18,7 +18,7 @@
  -->
 - 📝 I regularly write articles on [https://medium.com/@swatisaulanki](https://medium.com/@swatisaulanki)
 
-- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS, MongoDB, ExpressJs, NodeJS, DSA**
 
 - 📫 How to reach me **swatisaulanki@gmail.com**
 
