@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
-<h3 align="center"> A passionate MERN developer </h3>
+<h3 align="center"> A Passionate MERN Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
 
