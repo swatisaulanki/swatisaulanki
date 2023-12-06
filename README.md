@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SaulankiSwati" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="https://twitter.com/SaulankiSwati" height="40" width="40" /></a>
-<a href="linkedin.com/in/swati-saulanki-bb02721aa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin.com/in/swati-saulanki-bb02721aa" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/swati-saulanki-bb02721aa/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/swati-saulanki-bb02721aa/" height="40" width="40" /></a>
 <a href="https://www.instagram.com/swati.saulanki/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="https://www.instagram.com/swati.saulanki/" height="40" width="40" /></a>
 <a href="https://medium.com/@swatisaulanki" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/164/736/png-transparent-computer-icons-social-media-medium-blog-social-network-social-icons-angle-photography-logo.png" alt="https://medium.com/@swatisaulanki" height="40" width="40" /></a>
 </p>
