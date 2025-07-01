@@ -46,6 +46,12 @@
   </tr>
   <tr>
     <td align="center" width="120">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" alt="Tailwind CSS" />
+      </a>
+      <br/>Tailwind CSS
+    </td>
+    <td align="center" width="120">
       <a href="https://nodejs.org" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60" alt="Node.js" />
       </a>
@@ -69,14 +75,14 @@
       </a>
       <br/>Spring Boot
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://www.python.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="60" alt="Python" />
       </a>
       <br/>Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="60" alt="MySQL" />
@@ -94,12 +100,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" />
       </a>
       <br/>Git
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" />
-      </a>
-      <br/>GitHub
     </td>
     <td align="center" width="120">
       <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
