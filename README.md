@@ -1,6 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Swati Saulanki</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋 I’m Swati Saulanki</h1>
+
+<h3 align="center">
+ 🔭 I’m a Full Stack Web Developer (MERN & Java) <br/>
+ 🌱 Currently working on real-world e-commerce projects <br/>
+ 💡 Passionate about problem solving, learning, and uplifting others <br/>
+ 📫 Reach me at: <a href="mailto:swatisaulanki@gmail.com">swatisaulanki@gmail.com</a>
+</h3>
  
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
