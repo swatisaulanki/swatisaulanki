@@ -1,66 +1,145 @@
-
 <h1 align="center">Hi 👋 I’m Swati Saulanki</h1>
 
 <h3 align="center">
  🔭 Full Stack Developer (MERN + Java) <br/>
- 🌱 Building real-world e‑commerce apps <br/>
- 💡 Passionate about problem-solving & growth <br/>
- 📫 Reach me at <a href="mailto:swatisaulanki@gmail.com">swatisaulanki@gmail.com</a>
+ 🌱 Currently building real-world e‑commerce projects <br/>
+ 💡 Passionate about problem-solving, learning, and uplifting others <br/>
+ 📫 Reach me at: <a href="mailto:swatisaulanki@gmail.com">swatisaulanki@gmail.com</a>
 </h3>
 
 ---
- 
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/JoyousVerifiableCormorant-size_restricted.gif">
+<h3 align="center">🚀 Languages & Tools I Use</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatisaulanki&label=Profile%20views&color=0e75b6&style=flat" alt="swatisaulanki" /> </p>
-
-
-
-
-----
-### 🛠️ Tech Stack
-- Frontend: React, JavaScript, HTML, CSS, Tailwind  
-- Backend: Node.js, Express, Java (Spring Boot)  
-- DB: MongoDB, MySQL  
-- Tools: Git, Postman, GitHub Actions, Vercel
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" alt="React" />
+      </a>
+      <br/>React
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" alt="JavaScript" />
+      </a>
+      <br/>JavaScript
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="60" alt="HTML5" />
+      </a>
+      <br/>HTML5
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="60" alt="CSS3" />
+      </a>
+      <br/>CSS3
+    </td>
+    <td align="center" width="120">
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="60" alt="Bootstrap" />
+      </a>
+      <br/>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60" alt="Node.js" />
+      </a>
+      <br/>Node.js
+    </td>
+    <td align="center" width="120">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" width="60" alt="Express.js" />
+      </a>
+      <br/>Express.js
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" alt="Java" />
+      </a>
+      <br/>Java
+    </td>
+    <td align="center" width="120">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="60" alt="Spring Boot" />
+      </a>
+      <br/>Spring Boot
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="60" alt="Python" />
+      </a>
+      <br/>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="60" alt="MySQL" />
+      </a>
+      <br/>MySQL
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" alt="MongoDB" />
+      </a>
+      <br/>MongoDB
+    </td>
+    <td align="center" width="120">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" />
+      </a>
+      <br/>Git
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" />
+      </a>
+      <br/>GitHub
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4785/4785456.png" width="60" alt="DSA" />
+      </a>
+      <br/>DSA
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Projects
-- **Gifterra** – E-commerce web app (React + Node + MongoDB)  
-- **Kartzilla** – (Describe: e.g., features like auth, cart, payments)  
-- **DSA-Collection** – Algorithm solutions in JS
+<h3 align="center">📊 GitHub Stats</h3>
 
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatisaulanki&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swatisaulanki&show_icons=true&theme=tokyonight" alt="Swati's GitHub Stats" />
 </p>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UQ8hRVwlZQDVi0_lJ71UyJO5ufMeCINM/view?usp=drive_link">Resume</a>
 
-- 🔥 PortFolio <a href="https://swatisaulanki.vercel.app/" target="blank">https://swatisaulanki.vercel.app/</a>
+---
 
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
-<a href="https://twitter.com/SaulankiSwati" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="https://twitter.com/SaulankiSwati" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/swati-saulanki-bb02721aa/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/swati-saulanki-bb02721aa/" height="40" width="40" /></a>
-<a href="https://www.instagram.com/er.swati_saulanki/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="https://www.instagram.com/swati.saulanki/" height="40" width="40" /></a>
-<a href="https://medium.com/@swatisaulanki" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/164/736/png-transparent-computer-icons-social-media-medium-blog-social-network-social-icons-angle-photography-logo.png" alt="https://medium.com/@swatisaulanki" height="40" width="40" /></a>
+  <a href="https://twitter.com/SaulankiSwati" target="blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/swati-saulanki-bb02721aa/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/er.swati_saulanki/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@swatisaulanki" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com//" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzNbZA2NgkvFQjK4N_F5Q15KJgiZJN_R3nQ&usqp=CAU" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhzfQhv-OVMNJ_qOPczYgxlHx_QWPYxpFbsjSVUurbc9EGagHQpp5KNzfGmQ3ABE6Pm8&usqp=CAU" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swatisaulanki&show_icons=true&locale=en&layout=compact" alt="swatisaulanki" /></p>
+<h3 align="left">📄 Resume & Portfolio</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swatisaulanki&show_icons=true&locale=en" alt="swatisaulanki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swatisaulanki&" alt="swatisaulanki" /></p>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1UQ8hRVwlZQDVi0_lJ71UyJO5ufMeCINM/view?usp=drive_link" target="_blank">**Resume**</a>  
+- 🌐 Checkout my Portfolio: <a href="https://swatisaulanki.vercel.app/" target="_blank">**swatisaulanki.vercel.app**</a>
